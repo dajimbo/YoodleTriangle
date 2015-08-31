@@ -1,1 +1,17 @@
 http://www.yodlecareers.com/puzzles/triangle.html
+
+Although with a small sample testset this algorithm works.  
+
+ex:
+       5
+      9  6
+    4   6  8
+  0   7  1   5
+
+I.e. 5 + 9 + 6 + 7 = 27.
+
+
+
+The larger data-set did not return the correct sum.
+
+--Must debug--
